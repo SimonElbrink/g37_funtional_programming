@@ -1,5 +1,8 @@
 package se.lexicon;
 
+/**
+ * This Class Implements the The functional Interface.
+ */
 @Deprecated
 public class StringOperator implements DoStringStuff{
 
